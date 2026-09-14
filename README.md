@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minupatelsf
+- 👋 Hi, I’m @minupatel
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
